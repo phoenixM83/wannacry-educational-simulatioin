@@ -1,7 +1,7 @@
 import base64
 
 # Educational encryption simulation
-# This code does NOT encrypt real system files
+# This does NOT harm the system
 
 INPUT_FILE = "sample_data.txt"
 OUTPUT_FILE = "encrypted_data.txt"
@@ -14,4 +14,4 @@ encrypted_data = base64.b64encode(original_data)
 with open(OUTPUT_FILE, "wb") as file:
     file.write(encrypted_data)
 
-print("File encrypted (educ
+print("File encrypted (educational simulation).")
