@@ -14,4 +14,6 @@ encrypted_data = base64.b64encode(original_data)
 with open(OUTPUT_FILE, "wb") as file:
     file.write(encrypted_data)
 
+
+.
 print("File encrypted (educational simulation).")
