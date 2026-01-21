@@ -1,6 +1,6 @@
 # -educational-simulatioin
 educational simulation of ransomware behavioir for cybersecurity study
-# – educational simulation (Python)
+# – Educational simulation (Python)
 
 ## ⚠️ Educational Disclaimer
 This project is a **purely educational simulation** inspired by the WannaCry ransomware attack.
