@@ -14,3 +14,6 @@ with open(OUTPUT_FILE, "wb") as file:
     file.write(decrypted_data)
 
 print("File decrypted (educational simulation).")
+
+
+.
